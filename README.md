@@ -11,8 +11,8 @@ Coding my redesign for The Yale School of Art website, I tried to make it more v
 The Yale School of Art website ***(https://ysa.framer.website/)*** serves as a comprehensive online platform catering to the needs of students, faculty, and visitors of the esteemed institution. With its redesigned interface and user-centric design approach, the website aims to provide an intuitive and informative experience for all users. Leveraging modern web technologies, including HTML, CSS, and JavaScript, the website showcases the school's programs, faculty, events, and resources in a visually appealing and accessible manner.
 
 ## Design Files:
-Framer: _**(https://ysa.framer.website/)**_
-Figam: _**https://www.figma.com/proto/yfixglz6XcYOrkYnrf42Qv/Yale-School-of-Art?type=design&node-id=2-10&t=w5Hw2rMOq4rh5ILY-1&scaling=min-zoom&page-id=0%3A1&mode=design**_
+- **Framer: _**(https://ysa.framer.website/)**_
+- **Figam: _**https://www.figma.com/proto/yfixglz6XcYOrkYnrf42Qv/Yale-School-of-Art?type=design&node-id=2-10&t=w5Hw2rMOq4rh5ILY-1&scaling=min-zoom&page-id=0%3A1&mode=design**_
 
 ## Implementation
 - **JavaScript Framework:** Utilize a modern JavaScript framework for building the frontend application.
